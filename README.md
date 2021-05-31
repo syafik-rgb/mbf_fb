@@ -11,8 +11,8 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone https://github.com/Dru-Crack22/Dru-23
+git clone https://github.com/Dru-Crack22/mbffb
 
-cd mbf
+cd mbffb
 
 python mbf.py
